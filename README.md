@@ -25,18 +25,82 @@ From [the Thoughtbot blog](thoughtbot.com/blog/a-new-look-for-plibmttbhgaty), th
 @deniseyu and @spike01 organised their first PLIBMTTBHGATY in London in 2018,
 and are running their first online one at !!Con 2020.
 
-## I got to the workshop late
+## I got to the workshop late!
+
 No problem! Start by checking out our [slides](https://docs.google.com/presentation/d/1mcdMro9cSCrqhbuRIFYLLDCLHSb22FCyMYh5H8eb8to/edit#slide=id.p). Then, choose from:
 * Sending us a DM on Discord
 * Post in #plibmttbhgaty with what you want to work on
-* Join one of the \*-party channels
+* Join one of the \*-party channels, introduce yourself and join in!
 
 ## Resources
 
-### Online environments
+### Browser-based environments
 
-### How to pair/mob
+All of these require free registration!
+* [replit](https://replit.com/) - collaborative, real-time editor. Most
+  mainstream languages available.
+* [Exercism](https://exercism.org/) - learning tracks that take you through
+  a series of increasingly difficult exercises to learn a language
+* [Codewars](https://www.codewars.com/) - bite-sized programming challenges in
+  a lot of languages, with the ability to check out other people's solutions at
+  the end.
 
 ### Quickstart local environments
+* [swkBerlin kata bootstraps](https://github.com/swkBerlin/kata-bootstraps)
+  - templates with a test framework
 
-### Ideas for projects
+### How to pair/ensemble program
+* [Srong style
+  pairing](http://llewellynfalco.blogspot.com/2014/06/llewellyns-strong-style-pairing.html)
+  - the main takeaway from this article is:
+> For an idea to go from your head into the computer it MUST go through someone else's hands
+
+* [How to pair program effectively in
+  6 steps](https://gds.blog.gov.uk/2018/02/06/how-to-pair-program-effectively-in-6-steps/)
+> 1. Prepare
+> 2. Work closely together
+> 3. Learn and facilitate learning
+> 4. Establish a rhythm
+> 5. Communicate effectively
+> 6. Embrace challenges
+
+* [On pair programming](https://martinfowler.com/articles/on-pair-programming.html)
+  - this is a long, comprehensive article, but might help answer any questions
+    you have
+
+* [Ensemble programming](https://www.jbrains.ca/sessions/ensemble-programming)
+> * A group of people, as few as 3 and as many as 8, come together in the same space—virtual or physical.
+> * The ensemble agrees on a task and discusses what it means to have finished that task. They begin with the end in mind.
+> * Someone takes the role of driver and someone else takes the role of typist. Everyone else feels free to fulfil the ensemble’s remaining needs. The roles rotate through the group during the session.
+> * Sometimes we rotate roles based on a timer and sometimes we rotate roles based on completing various moves. The ensemble agrees on how they’ll work for this session.
+> * The typist takes control of the keyboard. They act as a kind of intelligent input device, capable of interpreting somewhat vague instructions and turning them into code.
+> * The driver directs the typist through various microsteps to make progress on the ensemble’s agreed-upon task.
+> * The rest of the ensemble supports the driver, writing things down, doing research, answering questions, and offering advice when the driver asks for help.
+> * Although the ensemble can rotate roles as they wish, I find good results when the typist ends their turn by taking over as the driver.
+> * It helps to have at least one person present who can confidently and quickly answer questions about the feature that the ensemble is trying to deliver, in order to avoid them becoming stuck and needing to switch tasks.
+> * We encourage members of the ensemble to take care of themselves, which means that they leave when they need to and return when they’re ready. The ensemble is usually able to continue even in the temporary absence of one of its members
+
+### Ideas for things to work on
+
+* Most languages will have a crash course linked from their project/Github page
+  - the people creating and maintaining languages want to help you learn!
+
+* Some languages have guides that take a test-based approach, whether with
+  a full CLI-based workflow, or implementing them yourself:
+  * Rust: [rustlings](https://github.com/rust-lang/rustlings)
+  * Ruby: [Ruby koans](http://rubykoans.com/)
+  * Go: [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests/)
+  * Java: [Java koans](https://github.com/matyb/java-koans)
+  * Python: [Obey the testing
+    goat!](https://www.obeythetestinggoat.com/pages/book.html#toc)
+
+* The "Learn you an <X> for a great(er) good!" series:
+  * Haskell: [Learn You A Haskell For Great
+    Good!](http://learnyouahaskell.com/)
+  * Erlang: [Learn You Some Erlang For Great
+    Good!](https://learnyousomeerlang.com/)
+
+* [Advent of Code](https://adventofcode.com/2022/events) problems from previous
+  years. As a bonus, previous year's events often have [solutions posted on
+  Reddit](https://www.reddit.com/r/adventofcode/wiki/solution_megathreads/), if
+  you get stuck or want to see idiomatic solutions
