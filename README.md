@@ -25,6 +25,14 @@ From [the Thoughtbot blog](thoughtbot.com/blog/a-new-look-for-plibmttbhgaty), th
 @deniseyu and @spike01 organised their first PLIBMTTBHGATY in London in 2018,
 and are running their first online one at !!Con 2020.
 
+### A note on "programming languages"
+
+While PLIBMTTBHGATY is nominally about learning a new programming language, we
+have seen participants have a great time trying out anything new that they
+haven't got around to yet. This could be a framework (Rails, Flask, Phoenix,
+React, Unity), a library (Pandas, D3, Tensorflow), or even hardware hacking.
+It's your day - work on whatever brings you happiness and growth.
+
 ## I got to the workshop late!
 
 No problem! Start by checking out our [slides](https://docs.google.com/presentation/d/1mcdMro9cSCrqhbuRIFYLLDCLHSb22FCyMYh5H8eb8to/edit#slide=id.p). Then, choose from:
@@ -85,6 +93,13 @@ All of these require free registration!
 * Most languages will have a crash course linked from their project/Github page
   - the people creating and maintaining languages want to help you learn!
 
+* In our experience, the best projects to work on are:
+    * something small - you can complete it, as a pair/group, during the
+      workshop.
+    * something fun and whimsical - a command line program to record the
+      Pokemon you've caught, a band-name generator, a Markov chain based on
+      a famous Twitter account's tweets or your favourite public-domain novel!
+
 * Some languages have guides that take a test-based approach, whether with
   a full CLI-based workflow, or implementing them yourself:
   * Rust: [rustlings](https://github.com/rust-lang/rustlings)
@@ -104,3 +119,8 @@ All of these require free registration!
   years. As a bonus, previous year's events often have [solutions posted on
   Reddit](https://www.reddit.com/r/adventofcode/wiki/solution_megathreads/), if
   you get stuck or want to see idiomatic solutions
+
+* Small games or katas:
+  * [Invent Your Own Computing
+    Games With Python](https://inventwithpython.com/invent4thed/)
+  * [Awesome list of code katas](https://github.com/gamontal/awesome-katas)
