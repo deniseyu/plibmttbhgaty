@@ -71,7 +71,7 @@ All of these require free registration!
   - templates with a test framework
 
 ### How to pair/ensemble program
-* [Srong style
+* [Strong style
   pairing](http://llewellynfalco.blogspot.com/2014/06/llewellyns-strong-style-pairing.html)
   - the main takeaway from this article is:
 > For an idea to go from your head into the computer it MUST go through someone else's hands
