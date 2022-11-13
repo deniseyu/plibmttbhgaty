@@ -2,10 +2,10 @@
 
 ### Contents
   * [Programming Languages I Have Been Meaning To Try But Haven't Got Around To Yet](#programming-languages-i-have-been-meaning-to-try-but-haven-t-got-around-to-yet)
-    + [How do you even pronounce that?](#how-do-you-even-pronounce-that-)
+    + [How do you even pronounce that?](#how-do-you-even-pronounce-that)
   * [History](#history)
-    + [A note on "programming languages"](#a-note-on--programming-languages-)
-  * [I got to the workshop late!](#i-got-to-the-workshop-late-)
+    + [A note on "programming languages"](#a-note-on--programming-languages)
+  * [I got to the workshop late!](#i-got-to-the-workshop-late)
   * [Resources](#resources)
     + [Browser-based environments](#browser-based-environments)
     + [Quickstart local environments](#quickstart-local-environments)
