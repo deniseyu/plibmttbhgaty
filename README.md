@@ -117,6 +117,7 @@ All of these require free registration!
   a full CLI-based workflow, or implementing them yourself:
   * Rust: [rustlings](https://github.com/rust-lang/rustlings)
   * Ruby: [Ruby koans](http://rubykoans.com/)
+  * Clojure: [Clojure koans](http://clojurekoans.com/)
   * Go: [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests/)
   * Java: [Java koans](https://github.com/matyb/java-koans)
   * Python: [Obey the testing
