@@ -9,7 +9,7 @@
   * [Resources](#resources)
     + [Browser-based environments](#browser-based-environments)
     + [Quickstart local environments](#quickstart-local-environments)
-    + [How to pair/ensemble program](#how-to-pair-ensemble-program)
+    + [How to pair/ensemble program](#how-to-pairensemble-program)
     + [Ideas for things to work on](#ideas-for-things-to-work-on)
 
 ## Programming Languages I Have Been Meaning To Try But Haven't Got Around To Yet
@@ -88,6 +88,8 @@ All of these require free registration!
 * [On pair programming](https://martinfowler.com/articles/on-pair-programming.html)
   - this is a long, comprehensive article, but might help answer any questions
     you have
+* [Tuple's guide to pair programming](https://tuple.app/pair-programming-guide/) 
+  - a fantastic guide by a company who specialise in remote pairing software
 
 * [Ensemble programming](https://www.jbrains.ca/sessions/ensemble-programming)
 > * A group of people, as few as 3 and as many as 8, come together in the same space—virtual or physical.
